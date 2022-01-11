@@ -85,3 +85,13 @@ git checkout new-feature-X
 git commit -a -m "some message"
 git commit -a -m "some message"
 git checkout main
+git commit -a -m "some message"
+git checkout main
+git checkout main
+git checkout new-feature-X
+git branch
+git branch new-feature-X 
+git checkout new-feature-X
+git push
+git branch
+git checkout new-feature-X 

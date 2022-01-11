@@ -82,3 +82,4 @@ clear
 git branch
 git branch new-feature-X 
 git checkout new-feature-X
+git commit -a -m "some message"

@@ -21,3 +21,13 @@ git config --global user.name "Vijaychandapure"
 git init
 ll
 git init 
+git add .
+git status
+git commit -m "Committed"
+git remote add origin <https://github.com/Vijaychandapure/events-app-api-server.git>
+git remote add origin https://github.com/Vijaychandapure/events-app-api-server.git
+git branch -M main
+git push -u origin main 
+git config --global user.email "chavijaykumar@deloitte.com"
+git config --global user.name "Vijaychandapure"
+git init

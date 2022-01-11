@@ -66,3 +66,19 @@ git branch
 git branch new-feature-X 
 git checkout new-feature-X
 clear
+git commit -a -m "Lab 3 text"
+git checkout main
+git commit 
+git branch
+git checkout main
+git push
+git push --set-upstream origin new-feature-X
+git branch
+git checkout main
+git pull
+git merge main
+git pull 
+clear
+git branch
+git branch new-feature-X 
+git checkout new-feature-X

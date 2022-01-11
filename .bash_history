@@ -95,3 +95,15 @@ git checkout new-feature-X
 git push
 git branch
 git checkout new-feature-X 
+git commit -a -m "some messagechange"
+git checkout main
+clear
+git branch
+git branch new-feature-X 
+git status
+git add. 
+git add . 
+git status
+git add -A 
+git status
+cd sample-master-2022/api-server/

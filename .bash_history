@@ -107,3 +107,10 @@ git status
 git add -A 
 git status
 cd sample-master-2022/api-server/
+git commit -a -m "some message"
+git push
+git commit
+cd sample-master-2022/api-server/
+git branch
+git branch new-feature-X
+git checkout new-feature-X

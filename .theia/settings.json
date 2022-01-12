@@ -1,4 +1,4 @@
 {
     "csharp.suppressDotnetRestoreNotification": true,
-    "editor.autoSave": "off"
+    "editor.autoSave": "on"
 }

@@ -119,3 +119,5 @@ git pull
 git push
 cd sample-master-2022/api-server/
 git branch
+git commit -a -m "Team name change"
+git checkout main
